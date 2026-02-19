@@ -1,44 +1,27 @@
-# Plant Disease Classification
+# Plant Disease Classification in MATLAB
 
 ## Overview
-The Plant Disease Classification project aims to identify and classify various plant diseases using MATLAB. This project utilizes machine learning algorithms and techniques to classify images of plants into healthy and diseased categories.
+This project focuses on the classification of plant diseases using MATLAB. It leverages machine learning algorithms to identify diseases in plants based on their images.
 
 ## Features
-- Image processing and feature extraction from plant images.
-- Utilization of machine learning algorithms such as Decision Trees, Support Vector Machines, etc.
-- User-friendly interface for uploading images and receiving classification results.
-- Visualization of classification results and model accuracy.
-
-## Requirements
-- MATLAB R2020a or later.
-- Image Processing Toolbox.
-- Statistics and Machine Learning Toolbox.
+- Image pre-processing techniques
+- Machine learning model training and evaluation
+- User-friendly interface
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mudhuakhil/plant-disease-classification-matlab.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd plant-disease-classification-matlab
-   ```
-3. Open the project in MATLAB and run the main script.
+1. Clone the repository: `git clone https://github.com/mudhuakhil/plant-disease-classification-matlab.git`
+2. Open the project in MATLAB.
+3. Run the desired scripts from the interface.
 
 ## Usage
-1. Launch the application and upload an image of a plant leaf.
-2. The application will preprocess the image and extract relevant features.
-3. The model will classify the image and display the results along with the probability scores.
+- Import your dataset and run the classification algorithms provided in the scripts.
+- Follow the documentation for a detailed guide on each function.
 
 ## Contributing
-- Contributions are welcome! Please fork the repository and submit a pull request.
+If you would like to contribute to this project, please fork the repository and submit a pull request with your improvements.
 
 ## License
-- This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-- Special thanks to various contributors of machine learning and image processing algorithms which made this project possible.
-
----
-
-For more information, check the repository for additional scripts and resources related to the Plant Disease Classification project.
+## Contact
+For inquiries, please contact: mudhuakhil@example.com
